@@ -1,0 +1,26 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/252675163/first1.git"
+  },
+  "keywords": [
+    "webApp"
+  ],
+  "author": "dewei.zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/252675163/first1/issues"
+  },
+  "homepage": "https://github.com/252675163/first1#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
